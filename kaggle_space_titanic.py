@@ -9,7 +9,7 @@
 # 5. Split the dataset into Training and Test sets
 # 6. Apply Feature Scaling
 # 7. Perform Grid Search to find the best parameters for RandomForestClassifier, XGBClassifier and CatBoostClassifier
-# 8. Trin an Artificial Neural Network (ANN) model
+# 8. Train an Artificial Neural Network (ANN) model
 # 9. Evaluate the ANN model
 # 10. Choose the best classifier
 # 11. Train the best model with the best parameters
